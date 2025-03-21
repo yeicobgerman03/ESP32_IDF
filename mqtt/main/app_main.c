@@ -20,6 +20,7 @@
 #include "driver/gpio.h"
 #include "cJSON.h" // Asegúrate de incluir la biblioteca cJSON
 
+
 static const char *TAG = "mqttws_example";
 
 #define LED_GPIO_PIN 2 // Define el pin GPIO donde está conectado el LED

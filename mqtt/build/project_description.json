@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "mqtt",
-    "project_version":    "1",
+    "project_version":    "4895c73-dirty",
     "project_path":       "C:/ESP32_IDF/mqtt",
     "idf_path":           "C:/ESP32/v5.3.2/esp-idf",
     "build_dir":          "C:/ESP32_IDF/mqtt/build",

@@ -9,6 +9,7 @@
     "idf.toolsPathWin": "C:\\ESP32\\.espressif",
     "idf.flashType": "UART",
     "files.associations": {
-        "uart.h": "c"
+        "uart.h": "c",
+        "protocol_examples_common.h": "c"
     }
 }
