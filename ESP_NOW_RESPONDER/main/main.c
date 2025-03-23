@@ -313,7 +313,7 @@
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-//obtener direccion mac
+// obtener direccion mac
 
 // #include <stdio.h>
 // #include "esp_system.h"
@@ -350,7 +350,7 @@
 #include "esp_log.h"
 #include "esp_event.h"
 
-#define LED_PIN 33
+#define LED_PIN 26
 #define LEDC_TIMER LEDC_TIMER_0
 #define LEDC_MODE LEDC_HIGH_SPEED_MODE
 #define LEDC_CHANNEL LEDC_CHANNEL_0
