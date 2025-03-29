@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "lcd_I2c",
-    "project_version":    "7f6d99f7-dirty",
+    "project_version":    "4cdc573b-dirty",
     "project_path":       "C:/ESP32_IDF/lcd_I2c",
     "idf_path":           "C:/ESP32/v5.3.2/esp-idf",
     "build_dir":          "C:/ESP32_IDF/lcd_I2c/build",
