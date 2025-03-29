@@ -14,7 +14,15 @@
         "esp_wifi.h": "c",
         "esp_event.h": "c",
         "esp_flash.h": "c",
-        "nvs_flash.h": "c"
+        "nvs_flash.h": "c",
+        "freertos.h": "c",
+        "string.h": "c",
+        "task.h": "c",
+        "stdio.h": "c",
+        "i2c.h": "c",
+        "esp_lcd_io_i2c.h": "c",
+        "esp_lcd_panel_vendor.h": "c",
+        "i2c_master.h": "c"
     },
     "idf.flashType": "UART",
     "idf.portWin": "COM4"
