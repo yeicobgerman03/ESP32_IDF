@@ -264,7 +264,7 @@ void app_main()
     lcd_set_cursor(0, 0);
     lcd_send_byte(0x01, 0);                // Limpiar pantalla
     vTaskDelay(1000 / portTICK_PERIOD_MS); // Esperar más tiempo para limpiar la pantalla
-    lcd_write_string("INICIANDO...:");
+    lcd_write_string("INICIANDO...");
     vTaskDelay(2000 / portTICK_PERIOD_MS);
 
     lcd_set_cursor(0, 0);
